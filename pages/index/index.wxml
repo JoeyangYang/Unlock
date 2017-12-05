@@ -1,0 +1,20 @@
+<!--index.wxml-->
+<view class='all'>
+  <view class='main center'>
+    <view class='logo center'><image src='../../img/logo.png'></image></view>
+    <view class='name'>
+      <text>万泰开锁</text>
+    </view>
+    <view class='life center'>
+      <view class='left'></view>
+      <view class='middle'>为优质生活</view>
+      <view class='right'></view>
+    </view>
+    <view class='phone' bindtap='clickPhone'>
+      <view class='callPhone center'>
+        <view class='left'><image src='../../img/phone.png'></image></view>
+        <view class='right'><text>服务电话</text></view>
+      </view>
+    </view>
+  </view>
+</view>

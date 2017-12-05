@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/Unlock_list/index",
+    "pages/Unlock_detail/index",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#FFBC12",
+    "navigationBarTitleText": "昆明开锁公司",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "color": "#FFB700",
+    "selectedColor": "#FFB700",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "img/index.png",
+        "selectedIconPath": "img/index.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/Unlock_list/index",
+        "iconPath": "img/1.png",
+        "selectedIconPath": "img/1.png",
+        "text": "锁具"
+      }
+    ]
+  }    
+}

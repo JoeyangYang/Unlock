@@ -1,0 +1,27 @@
+<!--pages/Unlock_detail/index.wxml-->
+<view class='all'>
+  <view class='header'>
+    <swiper style='width:100%;height:400rpx' indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" current="{{swiperCurrent}}" bindchange='swiperChange'>
+      <block wx:key='' wx:for="{{imgUrls}}">
+        <swiper-item>
+          <image src="{{item}}" class="slide-image" style='width:100%;height:100%'/>
+        </swiper-item>
+      </block>
+    </swiper>
+  </view>
+  <view class='main'>
+    <view class='title'><text>指纹锁</text></view>
+    <view class='describe'><text>描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述</text></view>
+  </view>
+  <!--详情-->
+  <view class='detail'>
+    <view class='details'><text>详情</text></view>
+    <view class='details_img'>
+      <image></image>
+    </view>
+  </view>
+  <!-- 底部 -->
+  <view class='bottom'>
+    <text>电话咨询</text>
+  </view>
+</view>

@@ -1,0 +1,170 @@
+<!--pages/Unlock_list/index.wxml-->
+<view class='all'>
+  <view class='header'>
+    <view class='head'><text>商品</text></view>
+  </view>
+  <view class='main'>
+    <view class='left'>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+      <view class='category'><text>指纹锁</text></view>
+    </view>
+    <view class='right'>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+      <!--列表页-->
+      <view class='lock_list'>
+        <view class='list'>
+          <view class='img'><image src='../../img/2.jpg'></image></view>
+          <view class='describe'>
+            <view class='describedetail'><text>指纹锁</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>好用又爽快，豪气又大方</text></view>
+            <view class='describedetail'><text>价格面议</text></view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
